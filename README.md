@@ -18,5 +18,6 @@ I'm Anuththiga, a Software Engineer with a passion for creating scalable and eff
 ### Github stats
 
 ![Anuththiga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuththiga&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuththiga&layout=compact&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=Anuththiga&color=green)
