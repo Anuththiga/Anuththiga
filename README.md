@@ -21,3 +21,5 @@ I'm Anuththiga, a Software Engineer with a passion for creating scalable and eff
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuththiga&layout=compact&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=Anuththiga&color=green)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuththiga&theme=radical&margin-w=4)](https://github.com/Anuththiga/github-profile-trophy)
