@@ -15,13 +15,14 @@ I'm Anuththiga, a Software Engineer with a passion for creating scalable and eff
 ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-## 📊 Github Stats
+## 📊 GitHub Stats
 
 ![Anuththiga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuththiga&count_private=true&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Anuththiga&theme=radical)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuththiga&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anuththiga&theme=radical)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Anuththiga&color=green)
 
