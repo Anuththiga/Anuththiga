@@ -23,6 +23,7 @@ I'm Anuththiga, a Software Engineer with a passion for creating scalable and eff
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Anuththiga&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anuththiga)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Anuththiga&color=green)
 
