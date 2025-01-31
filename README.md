@@ -22,7 +22,7 @@ I'm Anuththiga, a Software Engineer with a passion for creating scalable and eff
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuththiga&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anuththiga)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anuththiga)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Anuththiga&color=green)
 
