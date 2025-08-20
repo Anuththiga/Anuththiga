@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anuththiga, a Software Engineer with a passion for creating scalable and efficient software applications. I have a strong foundation in JavaScript(React/Vue) and PHP(Laravel/WordPress).
+I'm Anuththiga, a Software Engineer with a passion for creating scalable and efficient software applications. I have a strong foundation in JavaScript(React/Vue/NodeJS) and TypeSript.
 
 ---
 
